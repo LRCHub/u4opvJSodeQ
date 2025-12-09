@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "echoOZ",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-09T11:16:40.907284Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "echoOZ",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/01_echoOZ_UVERworld.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "echoOZ",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_echoOZ_UVERworld.txt"
+    }
+  ]
+}
